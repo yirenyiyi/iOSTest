@@ -1,0 +1,6 @@
+framework module Pods_huoshanTestTests {
+  umbrella header "Pods-huoshanTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
